@@ -40,6 +40,10 @@ lastname:
       test: [грин, дарвин, регин, цин]
       mods: [а, у, а, ом, е]
 
+    - gender: male
+      test: [ сакен ]
+      mods: [ ., ., ., ., . ]
+
   suffixes:
     - gender: female
       test: [б, в, г, д, ж, з, й, к, л, м, н, п, р, с, т, ф, х, ц, ч, ш, щ, ъ, ь]
